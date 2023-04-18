@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My first awesome project",
   "main": "index.js",
-  "type": "module",
+  
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
